@@ -1,2 +1,2 @@
-Video App in C++
+Video Renderer in C++
 ================
